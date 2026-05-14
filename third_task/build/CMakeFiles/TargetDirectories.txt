@@ -1,0 +1,3 @@
+C:/Users/korch/Desktop/c++_prod_prog/third_task/build/CMakeFiles/PC.dir
+C:/Users/korch/Desktop/c++_prod_prog/third_task/build/CMakeFiles/edit_cache.dir
+C:/Users/korch/Desktop/c++_prod_prog/third_task/build/CMakeFiles/rebuild_cache.dir
