@@ -119,6 +119,30 @@ CMakeFiles/PC.dir/main.cpp.obj: \
  C:/Users/korch/mingw64/include/c++/14.2.0/bits/stl_tempbuf.h \
  C:/Users/korch/mingw64/include/c++/14.2.0/pstl/glue_algorithm_defs.h \
  C:/Users/korch/mingw64/include/c++/14.2.0/pstl/execution_defs.h \
+ C:/Users/korch/mingw64/include/c++/14.2.0/cmath \
+ C:/Users/korch/mingw64/x86_64-w64-mingw32/include/math.h \
+ C:/Users/korch/mingw64/include/c++/14.2.0/bits/specfun.h \
+ C:/Users/korch/mingw64/include/c++/14.2.0/limits \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/gamma.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/special_function_util.h \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/bessel_function.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/beta_function.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/ell_integral.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/exp_integral.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/hypergeometric.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/legendre_function.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/modified_bessel_func.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/poly_hermite.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/poly_laguerre.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/tr1/riemann_zeta.tcc \
+ C:/Users/korch/mingw64/include/c++/14.2.0/unordered_map \
+ C:/Users/korch/mingw64/include/c++/14.2.0/bits/unordered_map.h \
+ C:/Users/korch/mingw64/include/c++/14.2.0/bits/hashtable.h \
+ C:/Users/korch/mingw64/include/c++/14.2.0/bits/hashtable_policy.h \
+ C:/Users/korch/mingw64/include/c++/14.2.0/ext/aligned_buffer.h \
+ C:/Users/korch/mingw64/include/c++/14.2.0/bits/enable_special_members.h \
+ C:/Users/korch/mingw64/include/c++/14.2.0/bits/node_handle.h \
+ C:/Users/korch/mingw64/include/c++/14.2.0/bits/erase_if.h \
  C:\Users\korch\Desktop\c++_prod_prog\third_task\crop_box_filter/crop_box_filter.hpp \
  C:/Users/korch/Desktop/c++_prod_prog/third_task/filter.hpp \
  C:/Users/korch/Desktop/c++_prod_prog/third_task/Logger.h \
@@ -162,30 +186,6 @@ CMakeFiles/PC.dir/main.cpp.obj: \
  C:/Users/korch/mingw64/include/c++/14.2.0/istream \
  C:/Users/korch/mingw64/include/c++/14.2.0/bits/istream.tcc \
  C:/Users/korch/Desktop/c++_prod_prog/third_task/PointCloud.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/cmath \
- C:/Users/korch/mingw64/x86_64-w64-mingw32/include/math.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/bits/specfun.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/limits \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/gamma.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/special_function_util.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/bessel_function.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/beta_function.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/ell_integral.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/exp_integral.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/hypergeometric.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/legendre_function.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/modified_bessel_func.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/poly_hermite.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/poly_laguerre.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/tr1/riemann_zeta.tcc \
- C:/Users/korch/mingw64/include/c++/14.2.0/unordered_map \
- C:/Users/korch/mingw64/include/c++/14.2.0/bits/unordered_map.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/bits/hashtable.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/bits/hashtable_policy.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/ext/aligned_buffer.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/bits/enable_special_members.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/bits/node_handle.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/bits/erase_if.h \
  C:/Users/korch/mingw64/include/c++/14.2.0/memory \
  C:/Users/korch/mingw64/include/c++/14.2.0/bits/stl_raw_storage_iter.h \
  C:/Users/korch/mingw64/include/c++/14.2.0/bits/align.h \

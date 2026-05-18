@@ -199,7 +199,4 @@ CMakeFiles/PC.dir/crop_box_filter/crop_box_filter.cpp.obj: \
  C:/Users/korch/mingw64/include/c++/14.2.0/bits/atomic_base.h \
  C:/Users/korch/mingw64/include/c++/14.2.0/bits/atomic_lockfree_defines.h \
  C:/Users/korch/mingw64/include/c++/14.2.0/backward/auto_ptr.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/pstl/glue_memory_defs.h \
- C:/Users/korch/mingw64/include/c++/14.2.0/cstring \
- C:/Users/korch/mingw64/x86_64-w64-mingw32/include/string.h \
- C:/Users/korch/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h
+ C:/Users/korch/mingw64/include/c++/14.2.0/pstl/glue_memory_defs.h

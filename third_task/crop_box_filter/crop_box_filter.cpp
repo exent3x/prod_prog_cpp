@@ -1,5 +1,4 @@
 #include "crop_box_filter.hpp"
-#include <cstring>
 #include <cmath>
 #include <algorithm>
 
@@ -46,7 +45,7 @@ std::unique_ptr<PointCloud> CropBoxFilter::Apply(const PointCloud* pc) {
     }
 
     auto result = std::make_unique<PointCloud>();
-    result->Init(pc->GetType(), output_points_count);
+    result->Init(pc->GetTypeEnum(), output_points_count);
     if (output_points_count > 0) {
         std::copy(output.begin(), output.end(), result->GetPoints().begin());
     }
@@ -63,7 +62,6 @@ void CropBoxFilter::SetParams(const FilterParametr& param) {
     new_param.max_z = param.GetParam("max_z", param_.max_z);
     new_param.negative = (param.GetParam("negative", param_.negative ? 1.0 : 0.0) != 0.0);
 
-    // Проверяем, изменились ли параметры
     if (new_param.min_x != param_.min_x || new_param.max_x != param_.max_x ||
         new_param.min_y != param_.min_y || new_param.max_y != param_.max_y ||
         new_param.min_z != param_.min_z || new_param.max_z != param_.max_z ||
@@ -86,4 +84,4 @@ void CropBoxFilter::SetParams(const FilterParametr& param) {
     Filter::SetParams(param);
 }
 
-}  // namespace pointcloud_preprocessor
+}
