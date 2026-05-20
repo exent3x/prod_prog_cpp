@@ -23,6 +23,11 @@ inline std::string PointCloudTypeToString(PointCloudType type) {
 
 class PointCloud {
 public:
+    PointCloud() = default;
+    PointCloud(PointCloudType pc_type, size_t points_count) {
+        Init(pc_type, points_count);
+    }
+
     void Init(PointCloudType pc_type, size_t points_count) {
         pointcloud_type_ = pc_type;
         size_ = points_count;
